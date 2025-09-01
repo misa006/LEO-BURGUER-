@@ -432,6 +432,19 @@ Carrinho Modal
     margin-bottom: 5rem;
 }
 
+.footer {
+  background-color: #000;  /* fundo preto */
+  color: #aaa;             /* letras cinza */
+  text-align: center;
+  padding: 1rem 0;
+  font-size: 1.4rem;
+}
+
+.footer .share {
+  background-color: #000;  /* garante fundo preto atrás dos ícones */
+  padding: 1rem 0;         /* mantém espaçamento */
+}
+
 
 
 

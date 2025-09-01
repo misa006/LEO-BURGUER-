@@ -432,3 +432,13 @@ Carrinho Modal
     margin-bottom: 5rem;
 }
 
+.footer {
+  background-color: #13131a;  /* cor de fundo igual ao restante do site */
+  color: #fff;                /* texto branco */
+  text-align: center;         /* centraliza o texto */
+  padding: 1rem 0;            /* espaço acima e abaixo */
+  font-size: 1.4rem;          /* tamanho do texto */
+}
+
+
+

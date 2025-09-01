@@ -433,13 +433,14 @@ Carrinho Modal
 }
 
 .footer {
-  background-color: #888;  /* cinza visível */
-  color: #fff;
+  background-color: #13131a;  /* preto */
+  color: #aaa;
   text-align: center;
   padding: 2rem 0;          /* maior padding para destacar */
   font-size: 1.6rem;        /* texto um pouco maior */
   border-top: 2px solid #fff; /* borda branca no topo pra destacar */
 }
+
 
 
 
